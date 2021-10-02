@@ -1,0 +1,3 @@
+// App Version Macros Generators
+#define APP_VERSION_MAJOR @TCPSockets_VERSION_MAJOR@
+#define APP_VERSION_MINOR @TCPSockets_VERSION_MINOR@
